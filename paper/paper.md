@@ -60,7 +60,7 @@ The package contains ``oilforecasts`` data set. It consists of forecasts of
 log-differences of real average world oil price forecasted by several 
 econometric models [@models]. This can serve as an illustration of an 
 application of the test. The source code for ``multDM`` has been archived to 
-CRAN [@cran]. 
+CRAN [@cran] and GitHub [@github]. 
 
 # Acknowledgements
 
